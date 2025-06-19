@@ -2,7 +2,6 @@
 
 A simple and responsive quiz application built using **HTML**, **CSS**, and **JavaScript**. This app displays multiple-choice questions to users and gives instant feedback on their answers. It also tracks the user's score and offers a replay option.
 
-
 ## 🚀 Features
 
 - Dynamic question rendering from a JavaScript array
@@ -11,13 +10,11 @@ A simple and responsive quiz application built using **HTML**, **CSS**, and **Ja
 - Play again functionality
 - Responsive and clean UI using pure CSS
 
-
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3 (Flexbox + custom styling)
 - JavaScript (DOM Manipulation)
-
 
 ## 📂 File Structure
 
